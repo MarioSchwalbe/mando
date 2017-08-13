@@ -1,4 +1,4 @@
-__version__ = '0.4'
+__version__ = '0.6.4'
 
 try:
     from mando.core import Program
